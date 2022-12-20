@@ -1,6 +1,6 @@
 # Valid_Sentence
 
-Can you determine if a string is a “valid” sentence, based on a simple set of rules?
+Determines if a string is a “valid” sentence, based on a simple set of rules
 For the purposes of this problem, a “valid” sentence is defined as:
 1.	String starts with a capital letter.
 2.	String has an even number of quotation marks.
